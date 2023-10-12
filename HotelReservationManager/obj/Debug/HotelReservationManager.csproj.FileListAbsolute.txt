@@ -1,0 +1,10 @@
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\bin\Debug\HotelReservationManager.exe.config
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\bin\Debug\HotelReservationManager.exe
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\bin\Debug\HotelReservationManager.pdb
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\obj\Debug\HotelReservationManager.csproj.AssemblyReference.cache
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\obj\Debug\HotelReservationManager.MainView.resources
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\obj\Debug\HotelReservationManager.Properties.Resources.resources
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\obj\Debug\HotelReservationManager.csproj.GenerateResource.cache
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\obj\Debug\HotelReservationManager.csproj.CoreCompileInputs.cache
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\obj\Debug\HotelReservationManager.exe
+C:\Users\cigan\Desktop\HotelReservationManager\HotelReservationManager\obj\Debug\HotelReservationManager.pdb
